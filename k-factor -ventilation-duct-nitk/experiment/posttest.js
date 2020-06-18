@@ -139,7 +139,7 @@
         question: "1 Weisbach is equal to  ",
         answers: {
           a: "1 Kilomurg",
-          b: "9.8 Ns2/m8",
+          b: "9.8 Ns<sup>2</sup>/m8",
           c: "164 Atkinsons ",
           d: "All of the above"
         },
