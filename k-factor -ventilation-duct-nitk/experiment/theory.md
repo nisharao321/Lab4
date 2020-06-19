@@ -35,7 +35,7 @@ Ventilating pressure overcoming friction or pressure loss due to friction.
 <img src="images/9.png">
 <img src="images/10.png">
 <p style="text-indent:50px;text-align:justify">P=RQ<sup>2</sup></p>
-<p style="text-indent:10px;text-align:justify">Where, <img display="inline" src="images/11.png" title="K_3" /> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
+<p style="text-indent:10px;text-align:justify">Where, <img top="120%" src="images/11.png" title="K_3" /> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
 
 Q = Quantity of air passing through the ventilation duct. (m<sup>3</sup>/sec)
 
