@@ -29,7 +29,7 @@ Where, K = coefficient of friction. (kg/m<sup>3</sup>)</li>
 <center>
  
 Ventilating pressure overcoming friction or pressure loss due to friction.
-<p style="text-indent:50px;text-align:justify">P=KSV<sup>2</sup></p>
+<p style="text-indent:50px;text-align:justify">P=KSV<sup>2</sup>/A</p>
 <p style="text-indent:50px;text-align:justify">since Q=A*V</p>
 <p style="text-indent:50px;text-align:justify">P=KSQ<sup>2</sup>/A<sup>3</sup></p>
 <p style="text-indent:50px;text-align:justify">P=(KS/A<sup>3</sup>)*Q<sup>3</sup></p>
