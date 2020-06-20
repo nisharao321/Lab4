@@ -29,13 +29,12 @@ Where, K = coefficient of friction. (kg/m<sup>3</sup>)</li>
 <center>
  
 Ventilating pressure overcoming friction or pressure loss due to friction.
-
-<img src="images/8.png">
+<p style="text-indent:50px;text-align:justify">P=KSV<sup>2</sup></p>
 <p style="text-indent:50px;text-align:justify">since Q=A*V</p>
-<img src="images/9.png">
-<img src="images/10.png">
+<p style="text-indent:50px;text-align:justify">P=KSQ<sup>2</sup>/A<sup>3</sup></p>
+<p style="text-indent:50px;text-align:justify">P=(KS/A<sup>3</sup>)*Q<sup>3</sup></p>
 <p style="text-indent:50px;text-align:justify">P=RQ<sup>2</sup></p>
-<p style="text-indent:10px;text-align:justify">Where, <img style="top:20%;" src="images/11.png" title="K_3" /> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
+<p style="text-indent:10px;text-align:justify">Where, R=KS/A<sup>3</sup> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
 
 Q = Quantity of air passing through the ventilation duct. (m<sup>3</sup>/sec)
 
